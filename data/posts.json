@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "slug": "designing-systems-that-age-well",
+    "title": "Designing systems that age well",
+    "excerpt": "A practical look at building digital products that remain useful as teams, requirements, and technology change.",
+    "content": "The best systems are not the ones that predict the future perfectly. They are the ones that leave room for the future to happen.\n\nGood architecture creates seams: places where a new feature can arrive without forcing the whole product to change. It also makes the ordinary path boring, observable, and easy to debug.\n\nFor small teams, this often means choosing a simple data model, keeping boundaries visible, and resisting abstractions until they solve a real problem. Complexity should be earned.",
+    "category": "Design",
+    "author": "Maya Chen",
+    "date": "2026-10-04",
+    "readTime": "6 min read",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "slug": "the-quiet-power-of-good-documentation",
+    "title": "The quiet power of good documentation",
+    "excerpt": "Documentation is not paperwork. It is a product surface for the people who maintain what you build.",
+    "content": "A useful document answers the next question before it becomes a blocker. That means showing the context, the decision, and the path forward.\n\nStart with the reader's task. A setup guide should help someone get running; an architecture note should help someone make a safe change. Keep both close to the code and update them when the decision changes.",
+    "category": "Work",
+    "author": "Jon Bell",
+    "date": "2026-09-28",
+    "readTime": "4 min read",
+    "featured": false
+  },
+  {
+    "id": "3",
+    "slug": "why-small-tools-win",
+    "title": "Why small tools win",
+    "excerpt": "When a tool does one job exceptionally well, it can become the fastest path between an idea and an outcome.",
+    "content": "There is a particular joy in a small tool that knows exactly what it is for. It has fewer controls, fewer edge cases, and a shorter distance between intention and action.\n\nThe challenge is discipline. Every new capability has a cost. The strongest small products protect their core promise while making the happy path remarkably good.",
+    "category": "Technology",
+    "author": "Nadia Rahman",
+    "date": "2026-09-19",
+    "readTime": "5 min read",
+    "featured": false
+  },
+  {
+    "id": "4",
+    "slug": "notes-from-a-slower-internet",
+    "title": "Notes from a slower internet",
+    "excerpt": "What happens when we design for attention, readability, and a little more breathing room?",
+    "content": "The web does not have to feel like a dashboard. There is still space for pages that invite a reader to stay for a few minutes.\n\nTypography, rhythm, and hierarchy do much of that work. A clear headline, generous margins, and intentional navigation can turn information into an experience rather than another stream of noise.",
+    "category": "Culture",
+    "author": "Eli Morgan",
+    "date": "2026-09-11",
+    "readTime": "7 min read",
+    "featured": false
+  }
+]
